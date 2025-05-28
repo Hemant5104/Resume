@@ -126,8 +126,8 @@
 \newcommand{\name}{Hemant Srivastava} % Your Name
 \newcommand{\course}{Computer Science and Engineering} % Your Program
 \newcommand{\role}{MERN Stack Developer} % Your Roll No.
-\newcommand{\phone}{8546074033} % Your Phone Number
-\newcommand{\emaila}{hemantsrivas51@gmail.com} %Email 1
+\newcommand{\phone}{xxxxxxxx} % Your Phone Number
+\newcommand{\emaila}{xxxxxxxxx@gmail.com} %Email 1
 
 \begin{document}
 \fontfamily{cmr}\selectfont
