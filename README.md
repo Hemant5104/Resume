@@ -1,4 +1,3 @@
-# Resume
     %-------------------------
 % Resume in Latex
 % Author
@@ -126,8 +125,8 @@
 \newcommand{\name}{Hemant Srivastava} % Your Name
 \newcommand{\course}{Computer Science and Engineering} % Your Program
 \newcommand{\role}{MERN Stack Developer} % Your Roll No.
-\newcommand{\phone}{xxxxxxxx} % Your Phone Number
-\newcommand{\emaila}{xxxxxxxxx@gmail.com} %Email 1
+\newcommand{\phone}{8546074033} % Your Phone Number
+\newcommand{\emaila}{hemantsrivas51@gmail.com} %Email 1
 
 \begin{document}
 \fontfamily{cmr}\selectfont
@@ -147,7 +146,7 @@
 \section{\textbf{Education}}
   \resumeSubHeadingListStart
     \resumeSubheading
-      {Bachelor of Technology in Computer Science and Engineering}{CGPA: 7.71}
+      {Bachelor of Technology in Computer Science and Engineering}{CGPA: 7.91}
       {Lovely Professional University, Phagwara}{2023-2027}
   \resumeSubHeadingListEnd
 \vspace{-5.5mm}
@@ -240,7 +239,6 @@
      \textbf{Web Dev Tools}{: Nodejs, VScode, Git, Github } \\ 
      \textbf{Frameworks}{: ReactJs,Tailwind CSS } \\
      \textbf{Cloud/Databases}{:MongoDb, Azure , Relational Database(MySql) } \\  
-     
      \textbf{Relevent Coursework}{: Data Structures \& Algorithms, Operating Systems, Object Oriented Programming, Database Management System, Software Engineering,Computer Networks,Computer Architecture. } \\ 
      \textbf{Areas of Interest}{: Web Design and Development, Cloud Security,Machine Learning.} \\
      \textbf{Soft Skills}{: Problem Solving, Self-learning, Presentation, Adaptability} \\
@@ -254,11 +252,11 @@
 \section{\textbf{Positions of Responsibility/Achievements}}
 \vspace{-0.4mm}
 \resumeSubHeadingListStart
-\resumePOR{Beta Microsoft Learn Student Ambassador } % Position
-    {Microsoft Learn Student Ambassador } %Club,Event
-    {July - Present} %Tenure Period \\
+\resumePOR{Gold Microsoft Student Ambassador } % Position
+    {Microsoft Student Ambassador } %Club,Event
+    {Aug - Present} %Tenure Period \\
     \resumeItemListStart
-    \item {Selected as a Beta Microsoft Learn Student Ambassador, representing the student tech community and promoting Microsoft technologies on campus.}
+    \item {Selected as a Gold Microsoft Student Ambassador, representing the student tech community and promoting Microsoft technologies on campus.}
     % \item {Conducted workshops and events on topics like Azure, GitHub, and web development, fostering peer learning and engagement with ober 300\texttt{+} attendees.}
     \resumeItemListEnd
 \resumePOR{Event Manager } % Position
